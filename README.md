@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Power Ranking Puebla
+## Pokémon League by Train On
 
-You can use the [editor on GitHub](https://github.com/bul-ikana/powerrankingpuebla/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+El Power Ranking de Puebla es un ranking del desempeño de los jugadores de Puebla inscritos a la Liga Pokémon oficial organizada por Train On. Cualquier persona que radique en el estado de Puebla y esté inscrito a la liga puede participar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reglas
 
-### Markdown
+* Cada mes, los jugadores se enfrentaran en una ronda tipo [round-robin](https://es.wikipedia.org/wiki/Sistema_de_todos_contra_todos) (todos deben jugar contra todos). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Las rondas se jugaran en el formato VGC vigente, a mejor de tres juegos.
 
-```markdown
-Syntax highlighted code block
+* El ranking de cada jugador se decide basado en dos factores: el resultado de sus rondas round-robin, y su posición anterior en el ranking.
 
-# Header 1
-## Header 2
-### Header 3
+* Cada ronda ganada le dará al jugador dos puntos. Rondas perdidas o rondas que no se jueguen no daran ni restarán puntos para ningún jugador.
 
-- Bulleted
-- List
+* Según su posición en el ranking del mes anterior, cada jugador comenzara el mes con cierta cantidad de puntos. Por ejemplo, si el rank anterior constó de 8 jugadores, el primer lugar comenzará con 8 puntos, el segundo con siete, y así hasta llegar al último con solo un punto. Los jugadores que se integren al rank ese mes no comenzaran con puntos.
 
-1. Numbered
-2. List
+* Las rondas podrán ser jugadas en 3DS o en Pokémon Showdown, con prioridad a 3DS. 
 
-**Bold** and _Italic_ and `Code` text
+* Las rondas podrán jugarse en linea o de manera presencial en los domingos de liga.
 
-[Link](url) and ![Image](src)
-```
+* Los resultados de las rondas deberán ser reportados directamente a Train On. Para esto se utilizará un grupo de Facebook con todos los jugadores. Una vez que un resultado sea reportado, no se tomará en cuenta ningún otro resultado hasta el siguiente mes, incluso si los jugadores vuelven a enfrentarse.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bul-ikana/powerrankingpuebla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Al final de cada mes calendario, se hara un recuento de los puntos y se determinará la posición de cada jugador en el ranking.
