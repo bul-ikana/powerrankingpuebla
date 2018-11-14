@@ -1,6 +1,3 @@
-# Power Ranking Puebla
-## Pokémon League by Train On
-
 El Power Ranking de Puebla es un ranking del desempeño de los jugadores de Puebla inscritos a la Liga Pokémon oficial organizada por Train On. Cualquier persona que radique en el estado de Puebla y esté inscrito a la liga puede participar.
 
 ### Reglas
