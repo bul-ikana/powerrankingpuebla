@@ -23,3 +23,5 @@ El Power Ranking de Puebla es un ranking del desempeño de los jugadores de Pueb
 * Los resultados de las rondas deberán ser reportados directamente a Train On. Para esto se utilizará un grupo de Facebook con todos los jugadores. En este grupo se pueden coordinar rondas, reportar resultados, y compartir los links de los enfrentamientos en Pokémon Showdown.
 
 * Al final de cada mes calendario, se hara un recuento de los puntos y se determinará la posición de cada jugador en el ranking.
+
+> El reglamento esta sujeto a cambios y podrá ser modificado para responder a situaciones e inquietudes entre los jugadores
