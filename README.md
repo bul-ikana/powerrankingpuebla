@@ -11,7 +11,7 @@ El Power Ranking de Puebla es un ranking del desempeño de los jugadores de Pueb
 
 * Según su posición en el ranking del mes anterior, cada jugador comenzara el mes con cierta cantidad de puntos. Por ejemplo, si el rank anterior constó de 8 jugadores, el primer lugar comenzará con 8 puntos, el segundo con siete, y así hasta llegar al último con solo un punto. Los jugadores que se integren al rank ese mes no comenzaran con puntos.
 
-* Las rondas round-robin se jugaran en el formato VGC vigente. Cada ronda constará de dos juegos contra cada jugador, al mejor de tres juegos.
+* Las rondas round-robin se jugaran en el formato VGC vigente. Cada ronda constará de dos partidas contra cada jugador. Cada partida se jugará al mejor de tres juegos.
 
 * Las rondas podrán jugarse de manera presencial en los domingos de liga o en línea. 
 
