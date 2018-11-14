@@ -15,14 +15,14 @@ El Power Ranking de Puebla es un ranking del desempeño de los jugadores de Pueb
 
 * Las rondas podrán jugarse de manera presencial en los domingos de liga o en línea. 
 
-* Las rondas jugadas de manera presencial darán dos puntos, mientras que las jugadas de manera online solo darán un punto. La elección de como jugar las rondas queda a criterio de los jugadores, pudiendo jugar ambas en línea, ambas presenciales, o una y una.
+* Las rondas jugadas de manera presencial darán dos puntos, mientras que las jugadas de manera online solo darán un punto. 
+
+* Solo se tomarán en cuenta los dos primeros resultados reportados. Despues de eso no se tomará en cuenta ningún otro resultado hasta el siguiente mes, incluso si los jugadores vuelven a enfrentarse. La elección de como jugar las rondas queda a criterio de los jugadores, pudiendo jugar ambas en línea, ambas presenciales, o una y una.
 
 * Rondas perdidas o rondas que no se jueguen no daran ni restarán puntos para ningún jugador.
 
 * Las rondas podrán ser jugadas en 3DS o en Pokémon Showdown, con prioridad a 3DS en presencial y con prioridad a Pokémon Showdown en línea. 
 
 * Los resultados de las rondas deberán ser reportados directamente a Train On. Para esto se utilizará un grupo de Facebook con todos los jugadores. En este grupo se pueden coordinar rondas, reportar resultados, y compartir los links de los enfrentamientos en Pokémon Showdown.
-
-* Solo se tomarán en cuenta los dos primeros resultados reportados, sin importar si se jugaron en línea o presencial. Despues de eso, no se tomará en cuenta ningún otro resultado hasta el siguiente mes, incluso si los jugadores vuelven a enfrentarse.
 
 * Al final de cada mes calendario, se hara un recuento de los puntos y se determinará la posición de cada jugador en el ranking.
